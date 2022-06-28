@@ -40,3 +40,11 @@
 
 <p/>
 
+# After installation, click the flag and select "promote this server as a domain controller"
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176196137-b12f8e0e-fc37-40c5-8281-0f4d463ad68c.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+
