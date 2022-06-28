@@ -71,3 +71,12 @@
 
 <p/>
 
+
+# Download Windows 10 OS from Microsoft and Install
+- Select Create Installationn media for another PC
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176205847-646f0905-6386-4f47-b829-96ac2fa800ac.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
