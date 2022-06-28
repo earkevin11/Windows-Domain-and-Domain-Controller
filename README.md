@@ -33,7 +33,7 @@
 - Manage and configure security settings
 
 
-# Install AD FS
+# Install AD Domain Service
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/176195321-584cdfde-312c-43f8-a1ed-5e5511de77db.png" height="75%" width="75%" alt="Azure LAW"/>
@@ -53,6 +53,13 @@
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/176196984-0f82cb37-f23a-4cb9-92b2-3cb0a7212a19.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# Click install and wait for installing of the AD DS Role
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176199531-2d92fc7b-8342-4005-b9c1-536351f36069.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
 
