@@ -63,3 +63,11 @@
 
 <p/>
 
+
+# After installation, the Virtual machine will restart. You can see the new roles installed.
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176204463-f4613f38-e677-4f32-adab-5ed740771324.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
