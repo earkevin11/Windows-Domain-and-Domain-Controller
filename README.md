@@ -33,4 +33,10 @@
 - Manage and configure security settings
 
 
+# Install AD FS
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176195321-584cdfde-312c-43f8-a1ed-5e5511de77db.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
 
