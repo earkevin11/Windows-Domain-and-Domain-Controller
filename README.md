@@ -99,9 +99,12 @@
 
 
 # Reminder to install VM Box Guest Additions
+- After installation, things like copying and paste between VM and host will work
 
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/176219041-89938689-e622-4354-b0d0-41e79aa92c61.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
+
+
