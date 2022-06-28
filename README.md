@@ -80,3 +80,19 @@
 <img src="https://user-images.githubusercontent.com/104326475/176205847-646f0905-6386-4f47-b829-96ac2fa800ac.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
+
+
+# Create a new virtual machine from virtual box and mount the Windows 10 ISO
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176215694-34ca8793-8ba9-4bdf-abba-c8d626996ec1.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# Start machine and install Windows 10
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176215832-5fdeb78c-b54b-4f2c-bf17-3ddf88ed9a23.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
