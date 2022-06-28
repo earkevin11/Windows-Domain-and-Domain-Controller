@@ -13,6 +13,12 @@
 - Primary reason to have more than one DC is fault tolerance. Critical data would be replicated to the other DC.
 - Domain Controllers uses Active Directory to manage users, computers, and act as a directory service for printers and files shares.
 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176091217-33e788be-4732-42e2-8ae5-bc9f0d9c48cc.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
 # What is Active Directory?
 - AD is a tool used to manage users, computers, printers, file shares, and groups.
 - AD uses objects and organizational units (folders)
@@ -26,9 +32,5 @@
 - Manage what website they can visit
 - Manage and configure security settings
 
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/104326475/176091217-33e788be-4732-42e2-8ae5-bc9f0d9c48cc.png" height="75%" width="75%" alt="Azure LAW"/>
 
-<p/>
 
