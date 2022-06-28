@@ -48,3 +48,11 @@
 <p/>
 
 
+# Create a domain called ITFLEE.COM
+- Subdomain or child would be called courses.itflee.com
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176196984-0f82cb37-f23a-4cb9-92b2-3cb0a7212a19.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
