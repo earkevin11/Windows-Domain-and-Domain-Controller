@@ -108,3 +108,35 @@
 <p/>
 
 
+# It will prompt you to enter the domain name that you want to join
+- Itflee.com is the domain controller on the other workstation
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176329388-f81f837a-6587-407e-af84-a6a82f4939f7.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# Domain join our Windows 10 VM workstation  #17 of video
+- First, ensure that both the Domain Controller (KevinVM) and workstation (Windows 10 VM) are on the same network. 
+- Check Network section on virtual box for both virtual machines.
+
+<p align="center">
+  
+<img src="![join Windows 10 to domain controller](https://user-images.githubusercontent.com/104326475/176329229-425005a4-3190-42f9-a13d-8eae4baf2160.png)" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# Add credentials that you created for Windows 2016 Server
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176329252-d324323f-2521-41f5-8636-45194015af03.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176329671-fb1de600-3224-409d-98d8-e93dc6eb3304.png" height="75%" width="75%" alt="Domain Controller"/>
+
+<p/>
+
