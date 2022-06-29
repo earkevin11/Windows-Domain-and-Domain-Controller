@@ -138,7 +138,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/176330352-3f48eb1c-f627-4da0-a621-49b0d4be2349.png" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/176330352-3f48eb1c-f627-4da0-a621-49b0d4be2349.png" height="155%" width="155%" alt="Azure LAW"/>
 
 <p/>
 
@@ -147,7 +147,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/176329671-fb1de600-3224-409d-98d8-e93dc6eb3304.png" height="75%" width="75%" alt="Domain Controller"/>
+<img src="https://user-images.githubusercontent.com/104326475/176330472-f3cf7993-ab7c-4087-8cfc-1a0c89c25594.png" height="155%" width="155%" alt="Domain Controller"/>
 
 <p/>
 
