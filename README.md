@@ -133,6 +133,17 @@
 
 <p/>
 
+# This is our domain that we want to join. It is our virtual machine (KevinVM) that has the AD Domain Service role installed.
+- Remember, any server that has AD DS role installed is a DOMAIN CONTROLLER
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176330352-3f48eb1c-f627-4da0-a621-49b0d4be2349.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# This is how we can check if our Windows 10 VM, named ITFWS01, domain joined to our domain controller virtual machine (KevinVM)
+- Tools > Active Directory Users and Computers > ITflee.com > Computers > You should see the comptuer of Windows 10 VM (ITFSW01)
 
 <p align="center">
   
