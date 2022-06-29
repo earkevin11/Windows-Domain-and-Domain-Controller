@@ -151,3 +151,23 @@
 
 <p/>
 
+# What are organization units?
+- They're essentially folders.
+
+# What OU is a computer placed into by default when it is joined to a domain?
+- Computers 
+
+# What does a PING command do?
+- Sends a message to target host asking for a response
+
+# Regarding the TCP/IP settings of a domain workstation, what IP address should you configure for your DNS server settings?
+- The IP address of a domain controller
+
+# What tool do you use to run a PING command?
+- Command Prompt
+
+# (True or false) A computer that is joined to a Windows Domain also needs its Workgroup to be configured.
+- False. It should automatically update.
+
+# On any computer on which you are configuring the TCP/IP setting, what IP address should you enter for the default gateway?
+- The IP address of the switch that the computer is connected to, or the IP address of the virtual network the computers is connected to.
