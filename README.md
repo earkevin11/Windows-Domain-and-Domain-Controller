@@ -11,6 +11,7 @@
 - DCs contains Active Directory and Group Policy
 - You can have several Domain Controllers within a Domain but there is only a primary DC.
 - Primary reason to have more than one DC is fault tolerance. Critical data would be replicated to the other DC.
+- If one DC fails, authentication services will automatically failover to another available DC.
 - <b> Domain Controllers uses Active Directory to manage users, computers, and act as a directory service for printers and files shares. <b>
 
 <p align="center">
@@ -21,7 +22,15 @@
 
 # What is Active Directory?
 - AD is a tool used to manage users, computers, printers, file shares, and groups.
+- In other words, it is a database that organizes your company's users and computers. 
 - AD uses objects and organizational units (folders)
+  
+# Relationship between Domain Controller and Active Directory?
+- Domain controller manages access for users, PCs, and servers on the network using Active Directory.
+  
+# Why is a Domain Controller important?
+- It controls all domain access.
+- It blocks unauthorized access to domain networks while allowing users access to all authorized services.
 
 
 # Group Policy Management 
@@ -31,6 +40,8 @@
 - Can install software remotely or anything you want to configure such as users' desktop background
 - Manage what website they can visit
 - Manage and configure security settings
+  
+  
 
 
 # Install AD Domain Service
