@@ -7,7 +7,7 @@
 # What are Domain Controllers?
 - Windows Domain uses a windows server called a Domain Controller. Often referred to as "DC"
 - Domain Controller is any <strong> <em> SERVER </strong> </em> that has the AD DS role installed.
-- DC server's job is to <strong> <em> HANDLE AUTHENTICATION REQUEST </strong> </em> across the domain.
+- DC server's job is to <strong> <em> HANDLE AUTHENTICATION REQUEST </strong> </em> and <strong> <em> VERIFIES USERS ON COMPUTER NETWORKS </strong> </em> across the domain.
 - DCs contains Active Directory and Group Policy
 - You can have several Domain Controllers within a Domain but there is only a primary DC.
 - Primary reason to have more than one DC is fault tolerance. Critical data would be replicated to the other DC.
