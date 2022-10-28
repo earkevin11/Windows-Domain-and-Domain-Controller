@@ -20,6 +20,13 @@
 <img src="https://user-images.githubusercontent.com/104326475/176091217-33e788be-4732-42e2-8ae5-bc9f0d9c48cc.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
+  
+  
+# Real-life scenario
+- When a user attempts to log in into a domain computer
+- The computer looks for a matching local user account that resides in the computer itself, if it does not find one, it will reach out to the domain controller.
+- The DC attempts to find a domain user account in the Active Directory (database that manages objects like domain users, computers, groups, file shares, and more)
+- 
 
 # What is Active Directory?
 - AD is a tool used to manage users, computers, printers, file shares, and groups.
@@ -37,12 +44,11 @@
 # Group Policy Management 
 - GP is used to manage all domain users and computers remotely.
 - GP uses Group Policy Objects (GPOs) to manage client settings
-- GP can be used to target specific usres, computers, groups, or OUs
+- GP can be used to target specific users, computers, groups, or OUs
 - Can install software remotely or anything you want to configure such as users' desktop background
 - Manage what website they can visit
 - Manage and configure security settings
-  
-  
+    
 
 
 # Install AD Domain Service
