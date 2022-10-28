@@ -11,7 +11,8 @@
 - DCs contains Active Directory and Group Policy
 - You can have several Domain Controllers within a Domain but there is only a primary DC.
 - Primary reason to have more than one DC is fault tolerance. Critical data would be replicated to the other DC.
-- If one DC fails, authentication services will automatically failover to another available DC.
+- If one DC fails, authentication services will automatically failover to another available DC. Example: DC1 fails, it goes to DC2.
+- Ex: When IT administrators needs to create a new user account or group policy, it is done via the Domain Controller 
 - <b> Domain Controllers uses Active Directory to manage users, computers, and act as a directory service for printers and files shares. <b>
 
 <p align="center">
